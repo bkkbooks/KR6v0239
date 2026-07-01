@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0239/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0239/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 李贊邑等邑義五百餘人造像碑
+  identifiers:
+    krp: KR6v0239
+    cbeta: I01n0044
+    cbeta_old_id: I01n0044
+    authorityid: CA0008179
+    json_key: I0044
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0044.xml
+    old_id: I01n0044
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0239_000-I.yaml, hash: 'sha256:fbaa2a3cff654950a1274a88588e2374171b9f4599dc9adbdd00e61493a4f183'}
+  - {seq: 1, filename: KR6v0239_001-I.yaml, hash: 'sha256:0cb897f469fae54d4deecaf4dbb5deb9f1b633ad75fd355c9a1b312a9728dd84'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0239_000-I.markers.yaml, hash: 'sha256:52348bfe7943c877538cebba021c260fbf97eb67073bf9dc7e0c7fdecf4a31ca'}
+  - {seq: 1, role: markers, filename: assets/KR6v0239_001-I.markers.yaml, hash: 'sha256:ce8b6bce7676552f1b0aef79d838f088e3c240b776dec3ba97f2103e4a7096c7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0239_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 900
+  label: 李贊邑等邑義五百餘人造像碑
+  type: juan
+  level: 1
+hash: sha256:0899d4f2abcdd4f4a1adc965c90358f5b6800607e34a641ade1d87c7953e2cf7

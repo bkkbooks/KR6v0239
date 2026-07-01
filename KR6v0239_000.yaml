@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0239/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 李贊邑等邑義五百餘人造像碑
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0044.xml
+    old_id: I01n0044
+hash: sha256:fbaa2a3cff654950a1274a88588e2374171b9f4599dc9adbdd00e61493a4f183
