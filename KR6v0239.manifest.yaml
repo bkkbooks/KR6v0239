@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0239_000.yaml, hash: 'sha256:fbaa2a3cff654950a1274a88588e2374171b9f4599dc9adbdd00e61493a4f183'}
-  - {seq: 1, filename: KR6v0239_001.yaml, hash: 'sha256:ddcdd9424d365f61f0b917da6eac37e142a8a7a8c18dbfdac19d75d816adf253'}
+  - {seq: 1, filename: KR6v0239_001.yaml, hash: 'sha256:0cb897f469fae54d4deecaf4dbb5deb9f1b633ad75fd355c9a1b312a9728dd84'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0239_001.markers.yaml, hash: 'sha256:7320be6e63276f5f272b006aaec1987765895d97ab39feb5c0520966d08a7d56'}
+  - {seq: 0, role: markers, filename: assets/KR6v0239_000.markers.yaml, hash: 'sha256:24349bec72fcec1dd01eada37ddb0d8c1c4dbb140337df1dbc729886092a5349'}
+  - {seq: 1, role: markers, filename: assets/KR6v0239_001.markers.yaml, hash: 'sha256:3a78c8fa186778f58b237714b68787ebf965def3b79b1739878a217e2553db76'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 李贊邑等邑義五百餘人造像碑
   type: juan
   level: 1
-hash: sha256:884120b97e72d98480303c61245ea907178176abc984941edf6912e9be66d7f7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8f43a2a054125be692f90eec74bc67b341e26fd3e5210a436e875b4f1bc64c93
